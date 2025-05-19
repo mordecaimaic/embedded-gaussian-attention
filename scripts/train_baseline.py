@@ -163,7 +163,8 @@ class BaselineKWS(nn.Module):
                 nn.Conv2d(in_ch, out, 3, 1, 1),
                 nn.BatchNorm2d(out),
                 nn.ReLU(),
-                nn.MaxPool2d(2),
+                # nn.MaxPool2d(2),
+                nn.MaxPool2d(2, 1),
             ]
             in_ch = out
         self.conv = nn.Sequential(*layers)
