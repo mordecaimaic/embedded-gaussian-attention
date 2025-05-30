@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="Black">
-    <option name="sdkName" value="Remote Python 3.11.5 (sftp://mqc@wis01.marques22.com:22802/data/disk3/root/anaconda3/envs/whisper_env/bin/python)" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.12 (sftp://mqc@wis01.marques22.com:22802/data/disk3/root/anaconda3/envs/kws/bin/python3)" project-jdk-type="Python SDK" />
-</project>
